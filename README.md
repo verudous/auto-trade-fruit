@@ -1,1 +1,1 @@
-# auto-trade-fruit
+Auto trade fruit using Javascript.
