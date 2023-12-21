@@ -1,4 +1,4 @@
-const token = 'YOUR_DISCORD_TOKEN'
+const token = 'YOUR_DISCORD_TOKEN';
 const message = `YOUR_MESSAGE`;
 let total_messages = 0;
 
